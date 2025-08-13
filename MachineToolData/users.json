@@ -1,0 +1,17 @@
+{
+  "admin": {
+    "password": "240be518fabd2724ddb6f04eeb1da5967448d7e831c08c8fa822809f74c720a9",
+    "role": "admin",
+    "created_date": "2025-08-12 20:36:52"
+  },
+  "Matt Minton": {
+    "password": "ce57a0a1ce7c240d1c0c629c1b3a81227785366d83b9f3e38372168e9ee675f3",
+    "role": "operator",
+    "created_date": "2025-08-12 20:37:18"
+  },
+  "Matthew": {
+    "password": "937377f056160fc4b15e0b770c67136a5f03c15205b4d3bf918268fefa2c6d0a",
+    "role": "manager",
+    "created_date": "2025-08-12 21:17:08"
+  }
+}
